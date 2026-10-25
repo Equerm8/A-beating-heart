@@ -1,0 +1,21 @@
+1. ESP32 Chest Strap Heart Rate Sensor | DIY Fitness Project
+good summary of qrs algo and principle of a beating hearth. Mostly algo 
+https://www.youtube.com/watch?v=Z1Dts_NHXyQ&t=549s
+
+2.Commercial Smartwatch VS DIY Heart Rate Monitor
+mostly general info
+https://www.youtube.com/watch?v=ViYAr-M4i0s
+
+3. Weekend Projects - Infrared Pulse Sensor
+general schematic reference
+https://www.youtube.com/watch?v=psTa5ZrqAyo&t=1s
+
+4. Photoplethysmography (PPG): Origins to Modern Applications in Wearable Technology
+ppg general info
+https://www.youtube.com/watch?v=YjM_bvzwwRc
+
+Fun fact:
+Pulse Fi. Wireless BPM sensing!
+June 2025!!!
+https://ieeexplore.ieee.org/abstract/document/11096342
+https://www.youtube.com/watch?v=Cf6_PGuEiZY
