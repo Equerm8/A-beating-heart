@@ -1,21 +1,19 @@
 LTspice 26.1.1 for Windows
-Circuit: C:\Users\Equer\Desktop\projekty\A beating heart\simulations\filtration and amplification.net
-Start Time: Sun Nov 22 09:26:36 2026
+Circuit: C:\Users\ekler\Desktop\projekty\A-beating-heart\simulations\filtration and amplification.net
+Start Time: Mon Nov 23 14:57:21 2026
 Options:plotwinsize=0
 solver = Normal
-Maximum thread count: 12
+Maximum thread count: 16
 tnom = 27
 temp = 27
 method = trap
-Compress1stOrder = true
-Compress2ndOrder = true
 Direct Newton iteration succeeded in finding operating point.
-Total elapsed time: 0.981 seconds.
-Total iterations: 62317
+Total elapsed time: 0.817 seconds.
+Total iterations: 65422
 
 Files loaded:
-C:\Users\Equer\Desktop\projekty\A beating heart\simulations\filtration and amplification.net
-C:\Users\Equer\AppData\Local\LTspice\lib\cmp\standard.dio
-C:\Users\Equer\AppData\Local\LTspice\lib\sub\NE555.sub
-C:\Users\Equer\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
+C:\Users\ekler\Desktop\projekty\A-beating-heart\simulations\filtration and amplification.net
+C:\Users\ekler\AppData\Local\LTspice\lib\cmp\standard.dio
+C:\Users\ekler\AppData\Local\LTspice\lib\sub\NE555.sub
+C:\Users\ekler\AppData\Local\LTspice\lib\sub\UniversalOpAmp2.lib
 
