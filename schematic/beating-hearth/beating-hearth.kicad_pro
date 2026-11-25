@@ -442,7 +442,7 @@
         "uuid": "69382b11-0bad-40b4-aa17-1a02430e759d"
       }
     ],
-    "used_designators": "D1",
+    "used_designators": "#FLG1,#PWR1-2,D1,IC1,J1,P1",
     "variants": []
   },
   "sheets": [
