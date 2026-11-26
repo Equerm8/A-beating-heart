@@ -2043,7 +2043,7 @@
 	)
 	(symbol
 		(lib_id "STM32F042F6P6:STM32F042F6P6")
-		(at 125.73 78.74 0)
+		(at 223.52 76.2 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2054,7 +2054,7 @@
 		(fields_autoplaced yes)
 		(uuid "df6be345-0bbb-4e0e-8951-3fdda725f2a4")
 		(property "Reference" "IC1"
-			(at 148.59 71.12 0)
+			(at 246.38 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2064,7 +2064,7 @@
 			)
 		)
 		(property "Value" "STM32F042F6P6"
-			(at 148.59 73.66 0)
+			(at 246.38 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2074,7 +2074,7 @@
 			)
 		)
 		(property "Footprint" "SOP65P640X120-20N"
-			(at 167.64 173.66 0)
+			(at 265.43 171.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2086,7 +2086,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f042c4.pdf"
-			(at 167.64 273.66 0)
+			(at 265.43 271.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2098,7 +2098,7 @@
 			)
 		)
 		(property "Description" "32-Bit MCU 32K Flash USB2.0 CAN TSSOP20 STMicroelectronics STM32F042F6P6, 32bit ARM Cortex M0 Microcontroller, 48MHz, 32 kB Flash, 20-Pin TSSOP"
-			(at 125.73 78.74 0)
+			(at 223.52 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2109,7 +2109,7 @@
 			)
 		)
 		(property "Height" "1.2"
-			(at 167.64 473.66 0)
+			(at 265.43 471.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2121,7 +2121,7 @@
 			)
 		)
 		(property "TME Electronic Components Part Number" ""
-			(at 167.64 573.66 0)
+			(at 265.43 571.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2133,7 +2133,7 @@
 			)
 		)
 		(property "TME Electronic Components Price/Stock" ""
-			(at 167.64 673.66 0)
+			(at 265.43 671.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2145,7 +2145,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "STMicroelectronics"
-			(at 167.64 773.66 0)
+			(at 265.43 771.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2157,7 +2157,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "STM32F042F6P6"
-			(at 167.64 873.66 0)
+			(at 265.43 871.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
